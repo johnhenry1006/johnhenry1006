@@ -3,8 +3,8 @@ Hi there 👋 My name is Huynh Ngoc Thinh
 
 Full-stack developer
 
-With 9 years of experience as a Full-Stack Software Engineer, I work well in front-end and back-end technologies.
-My expertise spans 9 years in modern front-end, and back-end development, 2 years in Node.js, and 7 years in PHP-related technologies.
+With 11 years of experience as a Full-Stack Software Engineer, I work well in front-end and back-end technologies.
+My expertise spans 11 years in modern front-end, and back-end development, 4 years in Node.js, and 9 years in PHP-related technologies.
 I am dedicated to continuous learning, and staying up-to-date with new technologies and best practices.
 
 Skills 💪🏻
